@@ -158,18 +158,18 @@ plt.show()
 ## Output:
 
 ### Input Image
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/725586f3-8a09-4d45-b66c-5d7cace62a22">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/725586f3-8a09-4d45-b66c-5d7cace62a22" width=20%>
 
 ### i)Image Translation
 
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/b8a95a67-2855-433d-8893-55d198cbb953">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/b8a95a67-2855-433d-8893-55d198cbb953" width=20%>
 
 
 <br>
 
 ### ii) Image Scaling
 
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/695e9a6e-7bd5-4352-9af5-08260a68e1b0">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/695e9a6e-7bd5-4352-9af5-08260a68e1b0" width=20%>
 <br>
 
 
@@ -177,27 +177,27 @@ plt.show()
 
 ### iii)Image shearing
 
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/ece1d988-3671-4496-952e-091927857a94">
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/b77abc31-453e-46bf-ac04-637898b521f4">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/ece1d988-3671-4496-952e-091927857a94" width=20%>
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/b77abc31-453e-46bf-ac04-637898b521f4" width=20%>
 <br>
 
 
 ### iv)Image Reflection
 
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/ca88135e-4912-40b4-b6cb-fa6eb7bfbcad">
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/cd401135-5ebf-4474-a912-59db75b1f53f">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/ca88135e-4912-40b4-b6cb-fa6eb7bfbcad" width=20% >
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/cd401135-5ebf-4474-a912-59db75b1f53f" width=20%>
 
 <br>
 
 
 ### v)Image Rotation
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/bfab3d13-37d2-438f-8e56-c3ec54abaf4b">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/bfab3d13-37d2-438f-8e56-c3ec54abaf4b" width=20%>
 <br>
 
 
 
 ### vi)Image Cropping
-<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/06abaf12-0287-4ae4-8eed-ff7b872e4c7b">
+<img src="https://github.com/Janarthanan2/DIP_EX04_IMAGE-TRANSFORMATIONS/assets/119393515/06abaf12-0287-4ae4-8eed-ff7b872e4c7b" width=20%>
 <br>
 
 
